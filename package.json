@@ -1,0 +1,33 @@
+{
+  "name": "namste-react",
+  "version": "1.0.0",
+  "description": "This project contain React-app",
+  "main": "episode1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankitaBannore/namsteReact.git"
+  },
+  "keywords": [
+    "Namaste-react"
+  ],
+  "author": "Ankita Bannore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankitaBannore/namsteReact/issues"
+  },
+  "homepage": "https://github.com/ankitaBannore/namsteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.10.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browsersList": [
+    "last 2 chrome version"
+  ]
+}
